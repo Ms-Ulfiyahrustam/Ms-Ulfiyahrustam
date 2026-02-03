@@ -15,19 +15,6 @@ Hi! I am **19 years old** AI Engineering student with a deep passion for **artif
 
 I love exploring **neural networks**, **computer vision**, **NLP**, and building AI models that make an impact! 🚀
 
-### 🌸 Social Media
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ms-Ulfiyahrustam)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ulfiyahrustam_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ulfiyahrustam)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/URS23)
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ulfiyah)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-**Discord:** ms.nzmia
-
 </div>
 
 </td>
@@ -201,60 +188,6 @@ I love exploring **neural networks**, **computer vision**, **NLP**, and building
 </div>
 
 ---
-
-<table>
-<tr>
-<td width="10%" valign="top">
-
-<div align="left">
-
-<br>
-
-> **🎵 Music Lover**
-<br>
-<img src="https://img.shields.io/badge/Music-FF69B4?style=for-the-badge&logo=applemusic&logoColor=white">
-
-<br>
-
-> **📚 Reading Tech Blogs**
-<br>
-<img src="https://img.shields.io/badge/Reading-FF1493?style=for-the-badge&logo=goodreads&logoColor=white">
-
-<br>
-
-> **🎮 Exploring AI Tools**
-<br>
-<img src="https://img.shields.io/badge/AI_Tools-FF69B4?style=for-the-badge&logo=openai&logoColor=white">
-
-<br>
-
-> **🎬 Watching Tech Videos**
-<br>
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-
-<br>
-
-> **🌐 Open Source**
-<br>
-<img src="https://img.shields.io/badge/Open_Source-FF1493?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
-
-<br>
-
-> **☕ Coffee & Code**
-<br>
-<img src="https://img.shields.io/badge/Coffee_&_Code-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white">
-
-
-
-
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
 
 ## 📈 GitHub Statistics
 
