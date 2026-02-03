@@ -1,0 +1,9 @@
+# Abaikan semua file markdown
+*.md
+
+# Abaikan file gambar resume (opsional, jika tidak ingin di-upload)
+Creative resume.jpeg
+
+# --- PENGECUALIAN ---
+# Jangan abaikan README.md utama (tanda seru ! artinya "kecuali")
+!README.md
