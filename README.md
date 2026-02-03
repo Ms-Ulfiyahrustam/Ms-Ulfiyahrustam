@@ -27,12 +27,10 @@ I love exploring **neural networks**, **computer vision**, **NLP**, and building
 <div align="center">
 
   <a href="https://github.com/Ms-Ulfiyahrustam">
-    <img src="https://github.com/Ms-Ulfiyahrustam.png"
-         width="200"
-         height="200"
-         alt="Ulfiyah Rustam"
-         style="border-radius: 50%; border: 4px solid #FF69B4; box-shadow: 0px 0px 20px #FF1493;">
+    <img src="./profile-circle.png" width="200" alt="Ulfiyah Rustam">
   </a>
+
+</div>
 
 </div>
 
