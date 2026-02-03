@@ -1,8 +1,13 @@
 <div align="center">
 
-#  URVASHI (ULFI)
+# 🤖 URVASHI (ULFI)
+## AI & Machine Learning Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=AI+Engineer+%F0%9F%A7%A0;Machine+Learning+Enthusiast+%F0%9F%A4%96;Deep+Learning+Developer+%F0%9F%92%AB;Data+Science+Explorer+%F0%9F%93%8A)](https://git.io/typing-svg)
+
+**Contact no:** 73033
+**Email:** urvashirajput335@gmail.com | ulfiah525363@gmail.com
+
 </div>
 
 ---
@@ -62,7 +67,7 @@ I love exploring **neural networks**, **computer vision**, **NLP**, and building
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ## 🎓 Education
 
@@ -80,7 +85,7 @@ I love exploring **neural networks**, **computer vision**, **NLP**, and building
 - 🏅 Kaggle Competitions
 
 </td>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ## 💎 Skills
 
@@ -102,45 +107,7 @@ I love exploring **neural networks**, **computer vision**, **NLP**, and building
 </td>
 </tr>
 </table>
-<table>
-  <tr>
-    <td width="50%" valign="top">
 
-## 🎓 Education
-
-⭐ **Bachelor's Degree** - Computer Science - informatics <br>
-⭐ **AI & Machine Learning** - Dicoding <br>
-⭐ **Data Science** - Amcc organitation <br>
-
-###  Certifications
-- TensorFlow Developer Certificate
-- Machine Learning by Andrew Ng
-- Deep Learning Specialization
-- Kaggle Competitions
-
-    </td>
-    <td width="50%" valign="top">
-
-##  Skills
-
-✨ **Machine Learning** <br>
-✨ **Deep Learning** <br>
-✨ **Computer Vision** <br>
-✨ **Natural Language Processing** <br>
-✨ **Neural Networks** <br>
-✨ **Data Analysis** <br>
-✨ **Model Deployment** <br>
-✨ **MLOps**
-
-### 🔧 Core Competencies
-- Supervised & Unsupervised Learning
-- Transfer Learning
-- Model Optimization
-- Feature Engineering
-
-    </td>
-  </tr>
-</table>
 ---
 
 ## 💻 Programming Languages
@@ -417,10 +384,40 @@ graph LR
 
 </div>
 
+---
 
+## 💻 Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 mins  ████████████░░░░░░░░  60%
+Jupyter      4 hrs 15 mins   ████░░░░░░░░░░░░░░░░  20%
+SQL          2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░  12%
+JavaScript   1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░   6%
+Other        25 mins         ░░░░░░░░░░░░░░░░░░░░   2%
+```
+<!--END_SECTION:waka-->
+
+</div>
 
 ---
 
+## 🌟 Professional Goals 2025
+
+<div align="center">
+
+| Quarter | Goals |
+|---------|-------|
+| **Q1** | 🎯 Complete Advanced Deep Learning Course<br/>📚 Publish 3 Research Paper Implementations<br/>🏆 Achieve Kaggle Expert |
+| **Q2** | 🚀 Deploy 2 Production ML Models<br/>🤝 Contribute to Major AI Open Source Project<br/>📝 Write Technical Blog Posts |
+| **Q3** | 🧠 Master LLMs & Fine-tuning<br/>🎨 Build Generative AI Application<br/>🏅 Earn Advanced AI Certifications |
+| **Q4** | 💼 Land AI Engineering Role<br/>🌐 Launch Personal AI Product<br/>📖 Mentor Junior AI Enthusiasts |
+
+</div>
+
+---
 
 ## 💬 Inspirational Quote
 
@@ -430,13 +427,13 @@ graph LR
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
 ║  "Artificial Intelligence is the new electricity."       ║
-║                                                          ║
+║                                                           ║
 ║                                    - Andrew Ng            ║
-║                                                          ║
+║                                                           ║
 ║  "The question is not whether intelligent machines       ║
 ║   can have any emotions, but whether machines can be     ║
 ║   intelligent without emotions."                         ║
-║                                                          ║
+║                                                           ║
 ║                                    - Marvin Minsky        ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
@@ -445,32 +442,87 @@ graph LR
 
 ---
 
+## 🎨 Profile Banner
 
+<div align="center">
+
+![AI Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,27&height=200&section=header&text=AI%20Engineer&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Intelligent%20Systems%20🤖&descAlignY=55&descSize=20)
+
+</div>
+
+---
 
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
 **I'm always open to:**
- 🤝 Collaborating on AI/ML projects
- 💡 Discussing research papers
- 🎓 Sharing knowledge and learning
- 🚀 Building innovative AI solutions
- 🌟 Contributing to open source
+- 🤝 Collaborating on AI/ML projects
+- 💡 Discussing research papers
+- 🎓 Sharing knowledge and learning
+- 🚀 Building innovative AI solutions
+- 🌟 Contributing to open source
 
 ### 📧 Contact Information
 
 **Primary Email:** ulfiah525363@gmail.com
-
+**Secondary Email:** urvashirajput335@gmail.com
+**Contact:** 73033
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ms--Ulfiyahrustam-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ms-Ulfiyahrustam)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-URS23-FFD21E?style=for-the-badge)](https://huggingface.co/URS23)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Ulfiyah-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ulfiyah)
 [![Instagram](https://img.shields.io/badge/Instagram-ulfiyahrustam__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ulfiyahrustam_)
-[![Discord](https://img.shields.io/badge/Discord-ms.nzmia-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ms.nzmia)
+
+**Discord:** ms.nzmia
 
 </div>
 
+---
 
+## 🌈 Fun AI Facts
 
+<div align="center">
 
+```python
+fun_facts = {
+    "favorite_algorithm": "Transformer Architecture 🤖",
+    "ai_idol": "Geoffrey Hinton & Yann LeCun 🧠",
+    "coding_fuel": "Coffee ☕ + Lo-fi Music 🎵",
+    "debug_method": "Print statements everywhere 😅",
+    "dream_company": "OpenAI / DeepMind / Google Brain 🚀",
+    "favorite_dataset": "ImageNet & COCO 📊",
+    "guilty_pleasure": "Training models until 3 AM 🌙",
+    "motto": "One epoch at a time! 💪"
+}
+
+print("Training neural networks and living the AI dream! 🤖💜")
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Quick Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ms-Ulfiyahrustam&color=FF69B4&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Ms-Ulfiyahrustam?style=for-the-badge&color=FF1493&logo=github)
+![Stars](https://img.shields.io/github/stars/Ms-Ulfiyahrustam?style=for-the-badge&color=FF69B4&logo=github)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,27&height=120&section=footer)
+
+**⭐ If you find my work interesting, don't forget to star my repositories! ⭐**
+
+*"In AI we trust, in data we train, in models we deploy."* 💜🤖
+
+**Made with 💜 by Ulfi (Urvashi) | AI Engineer**
+
+</div>
