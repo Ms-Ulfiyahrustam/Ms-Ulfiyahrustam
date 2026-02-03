@@ -27,10 +27,12 @@ I love exploring **neural networks**, **computer vision**, **NLP**, and building
 <div align="center">
 
   <a href="https://github.com/Ms-Ulfiyahrustam">
-    <img src="./profile-circle.png" width="200" alt="Ulfiyah Rustam">
+    <img src="https://github.com/Ms-Ulfiyahrustam.png"
+         width="200"
+         height="200"
+         alt="Ulfiyah Rustam"
+         style="border-radius: 50%; border: 4px solid #FF69B4; box-shadow: 0px 0px 20px #FF1493;">
   </a>
-
-</div>
 
 </div>
 
@@ -186,6 +188,60 @@ I love exploring **neural networks**, **computer vision**, **NLP**, and building
 </div>
 
 ---
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<div align="center">
+
+<br>
+
+> **🎵 Music Lover**
+<br>
+<img src="https://img.shields.io/badge/Music-FF69B4?style=for-the-badge&logo=applemusic&logoColor=white">
+
+<br>
+
+> **📚 Reading Tech Blogs**
+<br>
+<img src="https://img.shields.io/badge/Reading-FF1493?style=for-the-badge&logo=goodreads&logoColor=white">
+
+<br>
+
+> **🎮 Exploring AI Tools**
+<br>
+<img src="https://img.shields.io/badge/AI_Tools-FF69B4?style=for-the-badge&logo=openai&logoColor=white">
+
+<br>
+
+> **🎬 Watching Tech Videos**
+<br>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+
+<br>
+
+> **🌐 Open Source**
+<br>
+<img src="https://img.shields.io/badge/Open_Source-FF1493?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
+
+<br>
+
+> **☕ Coffee & Code**
+<br>
+<img src="https://img.shields.io/badge/Coffee_&_Code-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white">
+
+
+
+
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
 
 ## 📈 GitHub Statistics
 
