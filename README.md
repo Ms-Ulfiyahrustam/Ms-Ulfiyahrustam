@@ -47,19 +47,12 @@ I love exploring **neural networks**, **computer vision**, **NLP**, and building
 <td width="60%" valign="top">
 
 ## 🎓 Education
-
-⭐ **10th CBSE**
-⭐ **12th CBSE**
-⭐ **Bachelor's Degree** - Computer Science/AI
-⭐ **AI & Machine Learning** - Online Courses
-⭐ **Deep Learning Specialization**
-⭐ **Data Science Bootcamp**
+⭐ **Bachelor's Degree** - Computer Science - informatics
+⭐ **AI & Machine Learning** - Online Courses - Dicoding
+⭐ **Data Science Bootcamp** - Amcc organitation
 
 ### 📚 Certifications
-- 🏅 TensorFlow Developer Certificate
-- 🏅 Machine Learning by Andrew Ng
-- 🏅 Deep Learning Specialization
-- 🏅 Kaggle Competitions
+- Dicoding ML 
 
 </td>
 <td width="100%" valign="top">
