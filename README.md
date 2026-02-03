@@ -204,7 +204,7 @@ I love exploring **neural networks**, **computer vision**, **NLP**, and building
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="10%" valign="top">
 
 <div align="left">
 
