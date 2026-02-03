@@ -331,16 +331,12 @@ print("Building the future, one model at a time! 🚀")
 
 <div align="center">
 
-
   <a href="https://github.com/Ms-Ulfiyahrustam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ms-Ulfiyahrustam&theme=radical&border=FF1493&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFC0CB&hide_border=false" height="150" alt="streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ms-Ulfiyahrustam&theme=radical&border=FF1493&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFC0CB&hide_border=false" width="500" alt="streak" />
   </a>
 
-  <br>
-
-
-  <a href="https://github.com/Ms-Ulfiyahrustam">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ms-Ulfiyahrustam&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFC0CB&area_color=FF1493&area=true&hide_border=false&border_color=FF1493" height="150" alt="graph" />
+  <br><br> <a href="https://github.com/Ms-Ulfiyahrustam">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ms-Ulfiyahrustam&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFC0CB&area_color=FF1493&area=true&hide_border=false&border_color=FF1493" width="500" alt="graph" />
   </a>
 
 </div>
