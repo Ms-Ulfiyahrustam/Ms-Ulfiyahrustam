@@ -1,7 +1,5 @@
 <div align="center">
 
-#  URVASHI (ULFI)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=AI+Engineer+%F0%9F%A7%A0;Machine+Learning+Enthusiast+%F0%9F%A4%96;Deep+Learning+Developer+%F0%9F%92%AB;Data+Science+Explorer+%F0%9F%93%8A)](https://git.io/typing-svg)
 </div>
 
@@ -243,86 +241,52 @@ I love exploring **neural networks**, **computer vision**, **NLP**, and building
 <tr>
 <td width="50%" valign="top">
 
-## 🎨 Hobbies
+<div align="left">
 
-<div align="center">
+<br>
 
-### 🎵 Music Lover
-![Music](https://img.shields.io/badge/Music-FF69B4?style=for-the-badge&logo=applemusic&logoColor=white)
+> **🎵 Music Lover**
+<br>
+<img src="https://img.shields.io/badge/Music-FF69B4?style=for-the-badge&logo=applemusic&logoColor=white">
 
-### 📚 Reading Tech Blogs
-![Reading](https://img.shields.io/badge/Reading-FF1493?style=for-the-badge&logo=goodreads&logoColor=white)
+<br>
 
-### 🎮 Exploring AI Tools
-![AI Tools](https://img.shields.io/badge/AI_Tools-FF69B4?style=for-the-badge&logo=openai&logoColor=white)
+> **📚 Reading Tech Blogs**
+<br>
+<img src="https://img.shields.io/badge/Reading-FF1493?style=for-the-badge&logo=goodreads&logoColor=white">
 
-### 🎬 Watching Tech Videos
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+<br>
 
-### 🌐 Contributing to Open Source
-![Open Source](https://img.shields.io/badge/Open_Source-FF1493?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+> **🎮 Exploring AI Tools**
+<br>
+<img src="https://img.shields.io/badge/AI_Tools-FF69B4?style=for-the-badge&logo=openai&logoColor=white">
 
-### 🧩 Kaggle Competitions
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+<br>
 
-### 🎨 Creative Coding
-![Creative](https://img.shields.io/badge/Creative_Coding-FF69B4?style=for-the-badge&logo=processing&logoColor=white)
+> **🎬 Watching Tech Videos**
+<br>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 
-### ☕ Coffee & Code
-![Coffee](https://img.shields.io/badge/Coffee_&_Code-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
+<br>
+
+> **🌐 Open Source**
+<br>
+<img src="https://img.shields.io/badge/Open_Source-FF1493?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
+
+<br>
+
+> **☕ Coffee & Code**
+<br>
+<img src="https://img.shields.io/badge/Coffee_&_Code-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white">
+
+
+
+
 
 </div>
 
 </td>
-<td width="50%" valign="top">
 
-## 🎯 Current Focus
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Ulfi (Urvashi)"
-        self.role = "AI Engineer"
-        self.focus_areas = [
-            "🧠 Deep Learning",
-            "👁️ Computer Vision",
-            "💬 NLP & LLMs",
-            "🤖 Generative AI",
-            "📊 MLOps",
-            "🔬 Research Papers"
-        ]
-
-    def currently_learning(self):
-        return {
-            "advanced": [
-                "Transformer Architecture",
-                "Diffusion Models",
-                "Reinforcement Learning",
-                "Graph Neural Networks"
-            ],
-            "tools": [
-                "LangChain",
-                "Stable Diffusion",
-                "GPT Fine-tuning",
-                "AutoML"
-            ]
-        }
-
-    def dream_projects(self):
-        return [
-            "🎨 AI Art Generator",
-            "🗣️ Voice Cloning System",
-            "🔍 Object Detection App",
-            "📝 Smart Chatbot",
-            "🧬 Medical AI Diagnosis"
-        ]
-
-# Initialize
-ulfi = AIEngineer()
-print("Building the future, one model at a time! 🚀")
-```
-
-</td>
 </tr>
 </table>
 
