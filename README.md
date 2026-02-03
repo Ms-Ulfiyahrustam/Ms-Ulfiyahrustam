@@ -101,42 +101,7 @@ I love exploring **neural networks**, **computer vision**, **NLP**, and building
   <tr>
     <td width="50%" valign="top">
 
-## 🎓 Education
 
-⭐ **Bachelor's Degree** - Computer Science - informatics <br>
-⭐ **AI & Machine Learning** - Dicoding <br>
-⭐ **Data Science** - Amcc organitation <br>
-
-###  Certifications
-- TensorFlow Developer Certificate
-- Machine Learning by Andrew Ng
-- Deep Learning Specialization
-- Kaggle Competitions
-
-    </td>
-    <td width="50%" valign="top">
-
-##  Skills
-
-✨ **Machine Learning** <br>
-✨ **Deep Learning** <br>
-✨ **Computer Vision** <br>
-✨ **Natural Language Processing** <br>
-✨ **Neural Networks** <br>
-✨ **Data Analysis** <br>
-✨ **Model Deployment** <br>
-✨ **MLOps**
-
-### 🔧 Core Competencies
-- Supervised & Unsupervised Learning
-- Transfer Learning
-- Model Optimization
-- Feature Engineering
-
-    </td>
-  </tr>
-</table>
----
 
 ## 💻 Programming Languages
 
