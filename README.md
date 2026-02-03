@@ -328,58 +328,20 @@ print("Building the future, one model at a time! 🚀")
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Statistics
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-![Ulfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ms-Ulfiyahrustam&show_icons=true&theme=radical&border_color=FF1493&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFFFFF)
+  <img src="https://github-readme-stats.vercel.app/api?username=Ms-Ulfiyahrustam&show_icons=true&theme=radical&border_color=FF1493&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ms-Ulfiyahrustam&theme=radical&border=FF1493&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFC0CB&hide_border=false" alt="GitHub Streak" width="48%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Ulfiyahrustam&layout=compact&theme=radical&border_color=FF1493&bg_color=0D1117&title_color=FF69B4)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ms-Ulfiyahrustam&theme=radical&border=FF1493&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4)
-
-</div>
-
----
-
-## 🏆 Achievements & Projects
-
-<div align="center">
-
-| 🎯 Category | 🌟 Achievement |
-|-------------|----------------|
-| **Kaggle** | 🥇 Competitions Participated |
-| **HuggingFace** | 🤗 Models Published |
-| **GitHub** | ⭐ Open Source Contributions |
-| **Certifications** | 📜 AI/ML Certificates Earned |
-| **Projects** | 🚀 AI Projects Deployed |
+  <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Ulfiyahrustam&layout=compact&theme=radical&border_color=FF1493&bg_color=0D1117&title_color=FF69B4&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ms-Ulfiyahrustam&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFC0CB&area_color=FF1493&area=true&hide_border=false&border_color=FF1493" alt="Contribution Graph" width="48%" />
 
 </div>
 
-### 💡 Featured Projects
-
-```yaml
-projects:
-  - name: "Image Classification with CNN"
-    tech: ["TensorFlow", "Keras", "OpenCV"]
-    description: "Deep learning model for multi-class image classification"
-
-  - name: "NLP Sentiment Analysis"
-    tech: ["PyTorch", "Transformers", "BERT"]
-    description: "Sentiment analysis using pre-trained language models"
-
-  - name: "Object Detection System"
-    tech: ["YOLO", "OpenCV", "Flask"]
-    description: "Real-time object detection web application"
-
-  - name: "Chatbot with RAG"
-    tech: ["LangChain", "OpenAI", "Pinecone"]
-    description: "Intelligent chatbot with retrieval-augmented generation"
-
-  - name: "Recommender System"
-    tech: ["scikit-learn", "Pandas", "Surprise"]
-    description: "Collaborative filtering recommendation engine"
-```
 
 ---
 
@@ -416,29 +378,10 @@ graph LR
 
 
 
----
 
-
-## 💬 Inspirational Quote
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║  "Artificial Intelligence is the new electricity."       ║
-║                                                          ║
-║                                    - Andrew Ng            ║
-║                                                          ║
-║  "The question is not whether intelligent machines       ║
-║   can have any emotions, but whether machines can be     ║
-║   intelligent without emotions."                         ║
-║                                                          ║
-║                                    - Marvin Minsky        ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
