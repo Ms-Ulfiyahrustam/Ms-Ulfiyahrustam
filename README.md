@@ -61,7 +61,6 @@ I love exploring **neural networks**, **NLP**, and building AI models that make 
 
 ✨ **Machine Learning**
 ✨ **Deep Learning**
-✨ **Computer Vision**
 ✨ **Natural Language Processing**
 ✨ **Neural Networks**
 ✨ **Data Analysis**
