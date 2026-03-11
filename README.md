@@ -13,7 +13,7 @@
 
 Hi! I am **19 years old** AI Engineering student with a deep passion for **artificial intelligence**, **machine learning**, and creating intelligent systems that solve real-world problems.
 
-I love exploring **neural networks**, **computer vision**, **NLP**, and building AI models that make an impact! 🚀
+I love exploring **neural networks**, **NLP**, and building AI models that make an impact! 🚀
 
 </div>
 
